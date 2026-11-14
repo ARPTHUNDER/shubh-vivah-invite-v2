@@ -5,3 +5,12 @@
 .fam-head{font-family:'Great Vibes',cursive;font-size:1.9rem;color:var(--gold,#f4c75a);margin:0 0 8px}
 .fam-line{font-family:'Tiro Devanagari Hindi',serif;font-size:1.02rem;line-height:1.75;color:#f0dcb0;margin:2px 0}
 @media(max-width:560px){.fam-grid{grid-template-columns:1fr;gap:14px}.fam-head{font-size:1.7rem}}
+
+/* === Hindi edition: Devanagari display fonts + prominent family names === */
+body{font-family:'Tiro Devanagari Hindi',serif}
+.nm,.gu-names{font-family:'Tiro Devanagari Hindi',serif;font-weight:700;letter-spacing:0}
+.sec h2,.eyebrow,.h-kicker,.cd-label,.h-date,.h-date b{font-family:'Tiro Devanagari Hindi',serif!important;letter-spacing:.06em!important;text-transform:none!important}
+.h-ask{font-family:'Tiro Devanagari Hindi',serif;font-style:normal}
+.fam-head{font-family:'Tiro Devanagari Hindi',serif;font-size:2.05rem;font-weight:700}
+.fam-line{font-size:1.32rem;font-weight:600;line-height:1.9;color:#ffe9b8}
+.gu-open,.gu-skip,.rbtn,.mcue,.cd-note,.ev-day,.ev-note,.ev-where,.f-note,.f-sub,.h-venue,.scroll-cue{font-family:'Tiro Devanagari Hindi',serif}
